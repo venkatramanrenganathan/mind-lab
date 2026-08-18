@@ -305,3 +305,82 @@ img[src*="#badge"] {
 .franklin-content h2 {
     margin-top: 2rem;
 }
+
+/* ============================
+   MIND People
+   ============================ */
+
+.person-card {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.person-photo {
+    flex: 0 0 180px;
+}
+
+.person-photo img {
+    width: 180px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.photo-placeholder {
+    width: 180px;
+    height: 220px;
+    background: #f1f3f5;
+    border: 1px solid #d9dde3;
+    border-radius: 4px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #777;
+    font-size: 0.85rem;
+}
+
+.person-info {
+    flex: 1;
+}
+
+.person-info h3 {
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+}
+
+.person-links {
+    margin-top: 1rem;
+}
+
+.person-links a {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.empty-section {
+    color: #777;
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+
+/* Mobile layout */
+
+@media (max-width: 700px) {
+
+    .person-card {
+        flex-direction: column;
+    }
+
+    .person-photo {
+        flex-basis: auto;
+    }
+
+}
