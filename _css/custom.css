@@ -502,3 +502,52 @@ img[src*="#badge"] {
 .mind-sidebar-logo a {
     display: inline-block;
 }
+/* ============================
+   Full-width MIND content area
+   ============================ */
+
+.content {
+    max-width: none !important;
+    width: auto !important;
+}
+
+.franklin-content {
+    width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
+}
+
+/* ============================
+   Collapsible sidebar sections
+   ============================ */
+
+.sidebar-collapse {
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+.sidebar-collapse summary {
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+}
+
+.sidebar-collapse summary::-webkit-details-marker {
+    display: none;
+}
+
+.sidebar-collapse summary::before {
+    content: "▸";
+    display: inline-block;
+    margin-right: 0.4rem;
+    transition: transform 0.15s ease;
+}
+
+.sidebar-collapse[open] summary::before {
+    transform: rotate(90deg);
+}
+
+.sidebar-collapse-content {
+    margin-top: 0.35rem;
+    padding-left: 0.7rem;
+}

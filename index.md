@@ -11,15 +11,7 @@ We develop mathematical foundations and computational methods for intelligent, n
 
 ## MIND Lab Philosophy
 
-We are interested in the mathematical principles that allow intelligent networked systems to **reason, coordinate, decide, and act reliably** in uncertain and networked environments. The lab brings together ideas from:
-
-- Control and dynamical systems
-- Artificial intelligence
-- Probability and stochastic systems
-- Optimization
-- Graph theory
-- Formal methods
-- Multi-agent systems
+We are interested in the mathematical principles that allow intelligent networked systems to **reason, coordinate, decide, and act reliably** in uncertain and networked environments. The lab brings together ideas from Control and dynamical systems, Artificial intelligence, Probability and stochastic systems, Optimization, Graph theory, and Formal methods.
 
 ---
 
