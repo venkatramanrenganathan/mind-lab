@@ -1,41 +1,37 @@
 @def title = "People | MIND Lab"
 
-# People
+# PEOPLE
 
-## Faculty Member
+## Director of MIND Lab
 
+~~~
 <div class="person-card">
 
-<div class="person-photo">
-<img src="/_assets/people/Venkat.jpg" alt="Venkat">
-</div>
+  <div class="person-photo">
+    <img src="/assets/people/Venkat.jpg" alt="Dr. Venkatraman Renganathan">
+  </div>
 
-<div class="person-info">
+  <div class="person-info">
 
-### Dr. Venkatraman Renganathan
+    <p>
+      Dr. Venkatraman Renganathan<br>  
+      Assistant Professor<br> 
+      Department of Artificial Intelligence<br>
+      Indian Institute of Technology Hyderabad<br>
+      Kandi, Telangana 502284, India<br>
+      <strong>Email:</strong> venkatraman@ai.iith.ac.in<br>
+      <strong>Office:</strong> C-705(A), 7th Floor, MAE Building
+    </p>
+    <div class="person-links">
+      <a href="https://venkatramanrenganathan.github.io/">Website</a>
+      <a href="https://scholar.google.com/citations?user=D2ANMyEAAAAJ&hl=en&oi=ao">Google Scholar</a>
+      <a href="https://github.com/venkatramanrenganathan">GitHub</a>
+    </div>
 
-**Assistant Professor**\
-Department of Artificial Intelligence\
-Indian Istitute of Technology Hyderabad\
-Kandi, Sangareddy District, Telangana, 502284, INDIA\
-**Email:** venkatraman@ai.iith.ac.in\
-**Office:** Room C-705(A), 7th Floor of MAE Building\
-
----
-
-**Research Interests**: Multi-agent systems, control theory, stochastic systems, risk-aware motion planning, and formally verifiable artificial intelligence.  
-
-<div class="person-links">
-<a href="#">Personal Website</a>
-<a href="#">Google Scholar</a>
-<a href="#">GitHub</a>
-<a href="#">Email</a>
-</div>
+  </div>
 
 </div>
-
-</div>
-
+~~~
 ---
 
 ## Postdoctoral Researchers
@@ -48,39 +44,36 @@ The profiles of Postdoctoral Research Fellows will be added here.
 
 ### PhD Students
 
-<div class="empty-section">
-
+@@empty-section
 PhD student profiles will appear here.
-
-</div>
+@@
 
 ---
 
 ### MTech Students
 
-<div class="empty-section">
-
+@@empty-section
 Undergraduate and Master's students conducting research with MIND will appear here.
-
-</div>
+@@
 
 ---
 
-### BTech Students.
+### BTech Students
+
 1. **Sunkari Rama Harshini**, BTech in Artificial Intelligence, IIT Hyderabad
-1. **Bugada Roopansha**, BTech in Artificial Intelligence, IIT Hyderabad
-1. **Dhadheechi Ravva**, BTech in Artificial Intelligence, IIT Hyderabad 
-1. **Vallepu Preethika**, BTech in Artificial Intelligence, IIT Hyderabad
-1. **Kallem Maanya Sri**, BTech in Artificial Intelligence, IIT Hyderabad
-1. **Nevil C Prince**, BTech in Engineering Physics, IIT Hyderabad
+2. **Bugada Roopansha**, BTech in Artificial Intelligence, IIT Hyderabad
+3. **Dhadheechi Ravva**, BTech in Artificial Intelligence, IIT Hyderabad
+4. **Vallepu Preethika**, BTech in Artificial Intelligence, IIT Hyderabad
+5. **Kallem Maanya Sri**, BTech in Artificial Intelligence, IIT Hyderabad
+6. **Nevil C Prince**, BTech in Engineering Physics, IIT Hyderabad
+
+---
 
 ### Project Staff
 
-<div class="empty-section">
-
-Research associates, and project staff will appear here.
-
-</div>
+@@empty-section
+Research associates and project staff will appear here.
+@@
 
 ---
 

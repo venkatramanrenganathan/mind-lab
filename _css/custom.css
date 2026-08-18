@@ -327,6 +327,7 @@ img[src*="#badge"] {
     height: 220px;
     object-fit: cover;
     border-radius: 4px;
+    margin: 0;
 }
 
 .photo-placeholder {
@@ -383,4 +384,121 @@ img[src*="#badge"] {
         flex-basis: auto;
     }
 
+}
+/* ============================
+   MIND Homepage
+   ============================ */
+
+.mind-hero {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    padding: 3rem 2.5rem;
+    border-radius: 8px;
+    background: #f3f5f8;
+}
+
+.mind-kicker {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.6;
+    margin-bottom: 1rem;
+}
+
+.mind-hero h1 {
+    font-size: 3.2rem;
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+}
+
+.mind-hero h2 {
+    font-size: 1.35rem;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+}
+
+.mind-tagline {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 38rem;
+}
+
+.mind-hero-links {
+    margin-top: 1.5rem;
+}
+
+.mind-hero-links a {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.research-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.research-card {
+    display: block;
+    padding: 1.4rem;
+    border: 1px solid #e0e4e8;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: transform 0.15s ease,
+                box-shadow 0.15s ease;
+}
+
+.research-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    text-decoration: none;
+}
+
+.research-card h3 {
+    margin-top: 0;
+}
+
+.research-card p {
+    margin-bottom: 0;
+    opacity: 0.8;
+}
+
+@media (max-width: 700px) {
+
+    .mind-hero {
+        padding: 2rem 1.5rem;
+    }
+
+    .mind-hero h1 {
+        font-size: 2.4rem;
+    }
+
+    .research-grid {
+        grid-template-columns: 1fr;
+    }
+}
+/* ============================
+   MIND Logo
+   ============================ */
+
+.mind-sidebar-logo {
+    margin-bottom: 1.2rem;
+    width: 100%;
+}
+
+.mind-sidebar-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.mind-sidebar-logo a {
+    display: inline-block;
 }
