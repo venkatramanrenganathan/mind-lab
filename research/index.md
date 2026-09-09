@@ -6,8 +6,8 @@ The MIND Lab develops mathematical and computational foundations for intelligent
 
 ## Research Areas
 
-- [Multi-Agent Systems](/research/multi-agent-systems/)
+- [Temporal Logical Stochastic Processes](/research/temporal-logical-stochastic-process/)
 - [Stochastic Systems](/research/stochastic-systems/)
 - [Formal Methods](/research/formal-methods/)
-- [Verifiable AI](/research/verifiable-ai/)
+- [Risk-Aware AI](/research/risk-aware-ai/)
 - [AI + Control](/research/ai-control/)

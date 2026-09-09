@@ -60,13 +60,9 @@ Undergraduate and Master's students conducting research with MIND will appear he
 
 ### BTech Students
 
-1. **Sunkari Rama Harshini**, BTech in Artificial Intelligence, IIT Hyderabad
-2. **Bugada Roopansha**, BTech in Artificial Intelligence, IIT Hyderabad
-3. **Dhadheechi Ravva**, BTech in Artificial Intelligence, IIT Hyderabad
-4. **Vallepu Preethika**, BTech in Artificial Intelligence, IIT Hyderabad
-5. **Kallem Maanya Sri**, BTech in Artificial Intelligence, IIT Hyderabad
-6. **Nevil C Prince**, BTech in Engineering Physics, IIT Hyderabad
-
+1. **Sunkari Rama Harshini**, BTech in Artificial Intelligence, IIT Hyderabad (August 2026 - Present)
+2. **Nevil C Prince**, BTech in Engineering Physics, IIT Hyderabad (August 2026 - Present)
+3. **Shanmukh Machiraju**, BTech in Engineering Physics, IIT Hyderabad (September 2026 - Present)
 ---
 
 ### Project Staff

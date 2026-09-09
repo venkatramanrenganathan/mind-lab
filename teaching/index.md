@@ -4,10 +4,6 @@
 
 Teaching resources associated with the MIND Lab.
 
-## Multi-Agent Systems
-
-Course notes, demonstrations, code, and tutorials.
-
-## Formal Methods
-
-Tutorial material on temporal logic and epistemic logic.
+## Courses
+- Multi Agent Systems (Fall 2026): Course notes, demonstrations, code, and tutorials.
+- Control Systems (Spring 2027): Course notes, demonstrations, code, and tutorials.

@@ -6,9 +6,10 @@ We are interested in working with motivated students and researchers in areas in
 
 - Multi-Agent Systems
 - Control and Decision Making
-- Stochastic Systems
-- Formal Methods
-- Verifiable AI
-- AI + Control
+- Stochastic Processes
+- Stochastic Partial Differential Equations
+- Formal Methods for Risk Bounded Motion Planning
+- Risk-Aware AI
+- AI4Control & Control4AI
 
 More details on available research opportunities will be added here.

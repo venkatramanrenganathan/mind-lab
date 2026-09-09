@@ -2,16 +2,12 @@
 
 # Projects
 
-Current and upcoming research projects of the MIND Lab.
+Current and upcoming research projects of the MIND Lab are listed here.
 
-## Multi-Agent Systems
+## Upcoming Projects
+- **IIT Hyderabad Seed Grant (2026-2028)**: Formally Verified Learning & Control of Uncertain Networks
 
-Distributed coordination, consensus, resilient networks, and secure multi-agent systems.
+## Current Projects
+ 
 
-## Stochastic Systems
-
-Probabilistic robustness, stochastic system comparison, and uncertainty-aware control.
-
-## Formal and Verifiable AI
-
-Formal guarantees for intelligent and autonomous systems.
+## Finished Projects
