@@ -2,7 +2,7 @@
 
 # PEOPLE
 
-## Director of MIND Lab
+## Principal Investigator of MIND Lab
 
 ~~~
 <div class="person-card">
