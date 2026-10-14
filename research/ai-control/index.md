@@ -7,5 +7,4 @@ We study new ways of combining state-of-the-art AI tools for designing distribut
 Topics include:
 
 - Online Learning and Analysis
-- Adaptive Control
-- Distributed Control 
+- Distributed Adaptive Control

@@ -2,11 +2,5 @@
 
 # Temporal Logical Stochastic Processes
 
-We study distributed coordination and decision making in networked stochastic processes.
+We study distributed coordination and inferences in networked systems evolving as individual stochastic processes. The measure theoretical framework developed for analysing such networked processes will pave the way for better understanding of the spatio-temporal evolution of processes with limits.
 
-Topics include:
-
-- Consensus algorithms
-- Doob Transforms
-- Stochastic Partial Differential Equations
-- Stock Markets
