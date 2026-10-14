@@ -4,6 +4,12 @@
 
 Teaching resources associated with the MIND Lab.
 
-## Courses
-- Multi Agent Systems (Fall 2026): Course notes, demonstrations, code, and tutorials.
-- Control Systems (Spring 2027): Course notes, demonstrations, code, and tutorials.
+## Courses at IIT Hyderabad
+- Optimization - I (Spring 2027)
+- Multi Agent Systems (Fall 2026)  
+
+## Courses at Cranfield University
+- Multi Agent Systems (February 2026)
+
+## Courses at Lund University
+- Linear Systems (February 2022 - April 2022)
