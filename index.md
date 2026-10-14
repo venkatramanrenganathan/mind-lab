@@ -18,7 +18,7 @@ We are interested in the mathematical principles that allow intelligent networke
 ## Recent Events
 - **October 14, 2026:** The MIND Lab website got launched. 
 - **July 27, 2026:** A new elective course for the fall 2026 semester titled, **AI3403: Multi-Agent Systems** is being taught by Dr. Venkatraman Renganathan at IIT Hyderabad
-- **July 02, 2026:** The director of the MIND Lab, **Dr. Venkatraman Renganathan** joined the AI department of IIT Hyderabad as an assistant professor. 
+- **July 02, 2026:** The principal investigator of the MIND Lab, **Dr. Venkatraman Renganathan** joined the AI department of IIT Hyderabad as an assistant professor. 
 
 ## Join Us
 
