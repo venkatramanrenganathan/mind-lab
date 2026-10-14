@@ -1,1 +1,553 @@
-@charset "utf-8";@import url(https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap);h1{border-bottom:1px solid #999 !important;margin-bottom:1em !important}h1,h2{color:#555;font-family:"PT Sans Caption";font-weight:bold}html,body{font-family:"PT Sans",sans-serif;font-size:18px}.sidebar{z-index:2;overflow-y:auto;overflow-x:hidden;background-color:#00004d}.content{padding-top:0}.frankin-content{margin-top:2em}.franklin-content pre>code{border:1px solid #6b8e2340;padding:1.5em;border-radius:0}pre.code-output{background:#6b8e2340;padding-left:.5em}.code-output code{border-radius:0;padding-left:1em !important;background:white}.docstring{border:1px solid #f1f1f1;padding:1em;margin-bottom:2em}.franklin-content .docstring h2.doc-header{font-size:1.25em;color:#008080;margin:16px 0}.franklin-content .docstring h1{font-size:1.2em}.franklin-content .docstring h2{font-size:1em}.docstring .doc-type{font-size:1em;color:#6b8e2350;float:right}.franklin-content h1{margin-bottom:0;font-size:1.66em;border:none}.franklin-content h2{border:0;font-size:1.33em;font-style:normal;font-weight:bold}.sidebar-about h1{font-family:"Recursive",sans-serif;border-bottom:none !important;font-size:1.1em;opacity:.95}.sidebar-about h2{font-family:"Recursive",sans-serif;border-bottom:none !important;font-size:.8em;color:White;font-style:italic;font-weight:bold;margin-top:-1em}@media (min-width:768px){}.sidebar .container.sidebar-sticky{top:1rem}.sidebar-nav .sidebar-nav-item.under-construction{color:#757575}.sidebar-nav .sidebar-nav-item.under-construction::before{content:"🚧"}.sidebar-nav .sidebar-nav-item.active{box-sizing:border-box;background:#f0f8ff40;margin-right:-1em;margin-left:-0.5em;padding-left:1em;color:white;font-weight:normal !important}.sidebar-nav .sidebar-nav-item{color:#ccc;margin:.25em 0;padding-left:.5em}.sidebar-nav .course-section{align-items:center;color:#ffff80;margin-top:1em;border-bottom:2px dotted #ffff80}.sidebar-nav .book-chapter{align-items:center;color:#d93d00;margin-top:1em}.sidebar-nav .book-chapter::before,.sidebar-nav .book-chapter::after{content:" ";flex:1;border-bottom:1px dashed #d93d00}h1{margin-top:2em}h2{margin-top:1em}.page-foot img.github-logo{width:1em;height:1em;margin:0;padding:0;display:inline-block;margin-bottom:-2px}.page-foot{margin-bottom:0}img[src*="#badge"]{height:100px;width:auto;display:inline-block;padding:25px;align-items:center}.column{width:100%;float:left;margin-bottom:16px;padding:8px}@media (min-width:768px){.column{float:left;width:45%;margin-bottom:16px;padding:8px}}.card{box-shadow:0 4px 8px 0 rgba(0,0,0,0.2)}.card-container{padding:4px 16px}.card-container::after,.row::after{content:"";clear:both;display:table}.title{color:black;font-weight:bold;font-size:large}.semester{color:grey}.feedback{margin-top:.5em}.live-label{font-size:1.5rem;font-family:monospace;font-weight:900}.live-label::before{content:" ";width:1em;height:1em;margin-right:.5em;margin-bottom:-0.2em;border-radius:.5em;background:#d42727;display:inline-block;opacity:.8}@keyframes pulsered{0%{opacity:1}100%{opacity:.6}}.sidebar{background:#172033}.sidebar-about h1{font-size:2.0rem;font-weight:700}.sidebar-about h1 a{color:white;text-decoration:none}.sidebar-about a{color:white}.sidebar-about a:hover{text-decoration:none;opacity:.85}.sidebar-nav-item{transition:all .15s ease}.sidebar-nav-item:hover{padding-left:.25rem;text-decoration:none}.sidebar-nav-item.active{font-weight:700}.course-section{margin-top:1rem;margin-bottom:.35rem;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;opacity:.65}.franklin-content h1{margin-top:.4rem}.franklin-content h2{margin-top:2rem}.person-card{display:flex;gap:2rem;align-items:flex-start;margin-top:1.5rem;margin-bottom:2.5rem}.person-photo{flex:0 0 180px}.person-photo img{width:180px;height:220px;object-fit:cover;border-radius:4px;margin:0}.photo-placeholder{width:180px;height:220px;background:#f1f3f5;border:1px solid #d9dde3;border-radius:4px;display:flex;align-items:center;justify-content:center;color:#777;font-size:.85rem}.person-info{flex:1}.person-info h3{margin-top:0;margin-bottom:.3rem}.person-links{margin-top:1rem}.person-links a{display:inline-block;margin-right:1rem;margin-bottom:.5rem;font-weight:600}.empty-section{color:#777;font-style:italic;margin-bottom:2rem}@media (max-width:700px){.person-card{flex-direction:column}.person-photo{flex-basis:auto}}.mind-hero{margin-top:1rem;margin-bottom:3rem;padding:3rem 2.5rem;border-radius:8px;background:#f3f5f8}.mind-kicker{font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;opacity:.6;margin-bottom:1rem}.mind-hero h1{font-size:3.2rem;margin-top:0;margin-bottom:.4rem}.mind-hero h2{font-size:1.35rem;font-weight:500;margin-top:0;margin-bottom:1.2rem}.mind-tagline{font-size:1.05rem;line-height:1.6;max-width:38rem}.mind-hero-links{margin-top:1.5rem}.mind-hero-links a{display:inline-block;margin-right:1rem;margin-bottom:.5rem;font-weight:700}.research-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1.2rem;margin-top:1.5rem;margin-bottom:3rem}.research-card{display:block;padding:1.4rem;border:1px solid #e0e4e8;border-radius:6px;text-decoration:none;transition:transform .15s ease,box-shadow .15s ease}.research-card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(0,0,0,0.08);text-decoration:none}.research-card h3{margin-top:0}.research-card p{margin-bottom:0;opacity:.8}@media (max-width:700px){.mind-hero{padding:2rem 1.5rem}.mind-hero h1{font-size:2.4rem}.research-grid{grid-template-columns:1fr}}.mind-sidebar-logo{margin-bottom:1.2rem;width:100%}.mind-sidebar-logo img{display:block;width:100%;height:auto;margin:0 auto}.mind-sidebar-logo a{display:inline-block}.content{max-width:none !important;width:auto !important}.franklin-content{width:100% !important;max-width:none !important;box-sizing:border-box}.sidebar-collapse{margin-top:.8rem;margin-bottom:.8rem}.sidebar-collapse summary{cursor:pointer;list-style:none;user-select:none}.sidebar-collapse summary::-webkit-details-marker{display:none}.sidebar-collapse summary::before{content:"▸";display:inline-block;margin-right:.4rem;transition:transform .15s ease}.sidebar-collapse[open] summary::before{transform:rotate(90deg)}.sidebar-collapse-content{margin-top:.35rem;padding-left:.7rem}
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+h1 {
+    border-bottom: 1px solid #999 !important;
+    margin-bottom: 1em !important;
+}
+
+h1,
+h2 {
+    color: #555;
+    font-family: "PT Sans Caption";
+    font-weight: bold;
+}
+
+html,
+body {
+    font-family: "PT Sans", sans-serif;
+    font-size: 18px;
+}
+
+.sidebar {
+    z-index: 2;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: #00004d; /*#282936;*/
+}
+
+.content {
+    padding-top: 0;
+}
+
+.frankin-content {
+    margin-top: 2em;
+}
+.franklin-content pre > code {
+    border: 1px solid #6b8e2340;
+    padding: 1.5em;
+    border-radius: 0;
+}
+pre.code-output {
+    background: #6b8e2340;
+    padding-left: 0.5em;
+}
+
+.code-output code {
+    border-radius: 0;
+    padding-left: 1em !important;
+    background: white;
+}
+
+.docstring {
+    border: 1px solid #f1f1f1;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+.franklin-content .docstring h2.doc-header {
+    font-size: 1.25em;
+    color: #008080;
+    margin: 16px 0;
+}
+
+.franklin-content .docstring h1 {
+    font-size: 1.2em;
+}
+.franklin-content .docstring h2 {
+    font-size: 1em;
+}
+
+.docstring .doc-type {
+    font-size: 1em;
+    color: #6b8e2350;
+    float: right;
+}
+
+.franklin-content h1 {
+    margin-bottom: 0;
+    font-size: 1.66em;
+    border: none;
+}
+.franklin-content h2 {
+    border: none;
+    font-size: 1.33em;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.sidebar-about h1 {
+    font-family: "Recursive", sans-serif;
+    border-bottom: none !important;
+    font-size: 1.1em;
+    opacity: 0.95;
+}
+
+.sidebar-about h2 {
+    font-family: "Recursive", sans-serif;
+    border-bottom: none !important;
+    font-size: 0.8em;
+    color: White;
+    font-style: italic;
+    font-weight: bold;
+    margin-top: -1em;
+}
+
+@media (min-width: 768px) {
+}
+.sidebar .container.sidebar-sticky {
+    top: 1rem;
+}
+
+.sidebar-nav .sidebar-nav-item.under-construction {
+    color: #757575;
+}
+.sidebar-nav .sidebar-nav-item.under-construction::before {
+    content: "🚧";
+}
+
+.sidebar-nav .sidebar-nav-item.active {
+    box-sizing: border-box;
+    background: #f0f8ff40;
+    margin-right: -1em;
+    margin-left: -0.5em;
+    padding-left: 1em;
+    color: white;
+    font-weight: normal !important;
+}
+.sidebar-nav .sidebar-nav-item {
+    color: #cccccc;
+    margin: 0.25em 0;
+    padding-left: 0.5em;
+}
+
+.sidebar-nav .course-section {
+    align-items: center;
+    color: #ffff80;
+    margin-top: 1em;
+    border-bottom: 2px dotted #ffff80;
+}
+
+.sidebar-nav .book-chapter {
+    align-items: center;
+    color: #d93d00;
+    margin-top: 1em;
+}
+.sidebar-nav .book-chapter::before,
+.sidebar-nav .book-chapter::after {
+    content: " ";
+    flex: 1;
+    border-bottom: 1px dashed #d93d00;
+}
+
+h1 {
+    margin-top: 2em;
+}
+h2 {
+    margin-top: 1em;
+}
+
+.page-foot img.github-logo {
+    width: 1em;
+    height: 1em;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin-bottom: -2px;
+}
+
+.page-foot {
+    margin-bottom: 0;
+}
+
+/* Extra Styling for Logo bagdes*/
+img[src*="#badge"] {
+    height: 100px;
+    width: auto;
+    display: inline-block;
+    padding: 25px;
+    align-items: center;
+}
+
+/* Extra Styling for student feedback cards*/
+.column {
+    width: 100%;
+    float: left;
+    margin-bottom: 16px;
+    padding: 8px;
+}
+
+@media (min-width: 768px) {
+    .column {
+        float: left;
+        width: 45%;
+        margin-bottom: 16px;
+        padding: 8px;
+    }
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.card-container {
+    padding: 4px 16px;
+}
+.card-container::after,
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.title {
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+.semester {
+    color: grey;
+}
+.feedback {
+    margin-top: 0.5em;
+}
+
+.live-label {
+    font-size: 1.5rem;
+    font-family: monospace;
+    font-weight: 900;
+}
+.live-label::before {
+    content: " ";
+    width: 1em;
+    height: 1em;
+    margin-right: 0.5em;
+    margin-bottom: -0.2em;
+    border-radius: 0.5em;
+    background: rgb(212, 39, 39);
+    display: inline-block;
+    /* animation: pulsered 1.5s ease-in-out infinite; */
+    /* animation: name duration timing-function delay iteration-count alternate fill-mode; */
+    /* animation: pulsered 1.5s ease-in-out 0s infinite alternate; */
+    opacity: 0.8;
+}
+
+@keyframes pulsered {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0.6;
+    }
+}
+
+/* ============================
+   MIND Lab custom styling
+   ============================ */
+
+.sidebar {
+    background: #172033;
+}
+
+.sidebar-about h1 {
+    font-size: 2.0rem;
+    font-weight: 700;
+}
+
+.sidebar-about h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+.sidebar-about a {
+    color: white;
+}
+
+.sidebar-about a:hover {
+    text-decoration: none;
+    opacity: 0.85;
+}
+
+.sidebar-nav-item {
+    transition: all 0.15s ease;
+}
+
+.sidebar-nav-item:hover {
+    padding-left: 0.25rem;
+    text-decoration: none;
+}
+
+.sidebar-nav-item.active {
+    font-weight: 700;
+}
+
+.course-section {
+    margin-top: 1rem;
+    margin-bottom: 0.35rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.65;
+}
+
+.franklin-content h1 {
+    margin-top: 0.4rem;
+}
+
+.franklin-content h2 {
+    margin-top: 2rem;
+}
+
+/* ============================
+   MIND People
+   ============================ */
+
+.person-card {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.person-photo {
+    flex: 0 0 180px;
+}
+
+.person-photo img {
+    width: 180px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin: 0;
+}
+
+.photo-placeholder {
+    width: 180px;
+    height: 220px;
+    background: #f1f3f5;
+    border: 1px solid #d9dde3;
+    border-radius: 4px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #777;
+    font-size: 0.85rem;
+}
+
+.person-info {
+    flex: 1;
+}
+
+.person-info h3 {
+    margin-top: 0;
+    margin-bottom: 0.3rem;
+}
+
+.person-links {
+    margin-top: 1rem;
+}
+
+.person-links a {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.empty-section {
+    color: #777;
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+
+/* Mobile layout */
+
+@media (max-width: 700px) {
+
+    .person-card {
+        flex-direction: column;
+    }
+
+    .person-photo {
+        flex-basis: auto;
+    }
+
+}
+/* ============================
+   MIND Homepage
+   ============================ */
+
+.mind-hero {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    padding: 3rem 2.5rem;
+    border-radius: 8px;
+    background: #f3f5f8;
+}
+
+.mind-kicker {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    opacity: 0.6;
+    margin-bottom: 1rem;
+}
+
+.mind-hero h1 {
+    font-size: 3.2rem;
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+}
+
+.mind-hero h2 {
+    font-size: 1.35rem;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+}
+
+.mind-tagline {
+    font-size: 1.05rem;
+    line-height: 1.6;
+    max-width: 38rem;
+}
+
+.mind-hero-links {
+    margin-top: 1.5rem;
+}
+
+.mind-hero-links a {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.research-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.research-card {
+    display: block;
+    padding: 1.4rem;
+    border: 1px solid #e0e4e8;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: transform 0.15s ease,
+                box-shadow 0.15s ease;
+}
+
+.research-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    text-decoration: none;
+}
+
+.research-card h3 {
+    margin-top: 0;
+}
+
+.research-card p {
+    margin-bottom: 0;
+    opacity: 0.8;
+}
+
+@media (max-width: 700px) {
+
+    .mind-hero {
+        padding: 2rem 1.5rem;
+    }
+
+    .mind-hero h1 {
+        font-size: 2.4rem;
+    }
+
+    .research-grid {
+        grid-template-columns: 1fr;
+    }
+}
+/* ============================
+   MIND Logo
+   ============================ */
+
+.mind-sidebar-logo {
+    margin-bottom: 1.2rem;
+    width: 100%;
+}
+
+.mind-sidebar-logo img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.mind-sidebar-logo a {
+    display: inline-block;
+}
+/* ============================
+   Full-width MIND content area
+   ============================ */
+
+.content {
+    max-width: none !important;
+    width: auto !important;
+}
+
+.franklin-content {
+    width: 100% !important;
+    max-width: none !important;
+    box-sizing: border-box;
+}
+
+/* ============================
+   Collapsible sidebar sections
+   ============================ */
+
+.sidebar-collapse {
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+
+.sidebar-collapse summary {
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+}
+
+.sidebar-collapse summary::-webkit-details-marker {
+    display: none;
+}
+
+.sidebar-collapse summary::before {
+    content: "▸";
+    display: inline-block;
+    margin-right: 0.4rem;
+    transition: transform 0.15s ease;
+}
+
+.sidebar-collapse[open] summary::before {
+    transform: rotate(90deg);
+}
+
+.sidebar-collapse-content {
+    margin-top: 0.35rem;
+    padding-left: 0.7rem;
+}
